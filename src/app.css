@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Staatliches&family=VT323&display=swap');
+
+html {
+    /* Fonts */
+    --robo: 'VT323', monospace;
+    --allcaps: 'Staatliches', cursive;
+    --clean: 'Fira Sans', sans-serif;
+}
+
+html, body {
+    background-color: '#ffe8cc';
+}
